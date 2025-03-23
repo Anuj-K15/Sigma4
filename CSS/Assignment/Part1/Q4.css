@@ -1,0 +1,11 @@
+p {
+    color:red;
+}
+
+h1,h3,p {
+    text-align: center;
+}
+
+h3 {
+    color: black;
+}
